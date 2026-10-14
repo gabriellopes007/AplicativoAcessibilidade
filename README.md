@@ -162,12 +162,7 @@ AplicativoAcessibilidade/
 
 ## Credits
 
-- **Development:** Gabriel B. K. Lopes
+- **Development:** Gabriel Lopes
 - **Project coordination, design, audio descriptions and consulting:** see the *Sobre Aplicativo* screen inside the app
 - **Institutional links:** GOA observatory ([Facebook](https://www.facebook.com/goa.observatorio/)) and [astro.ufes.br](http://astro.ufes.br/)
 
----
-
-## License
-
-No license file is included in this repository yet. Add one (for example MIT or Apache-2.0) before sharing or accepting contributions.
