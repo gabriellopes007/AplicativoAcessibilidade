@@ -65,7 +65,7 @@ The home screen (`MainActivity`) is built from three layouts:
 | `app_bar_main.xml` | `CoordinatorLayout` with the black toolbar and a floating action button. |
 | `content_main.xml` | Vertical `LinearLayout` with four `ImageButton`s over the `fundo01.png` space background. |
 
-![Home screen design](docs/images/home-screen.svg)
+![Home screen design](https://github.com/gabriellopes007/AplicativoAcessibilidade/blob/master/ceu_acessivel_tela_inicial.png)
 
 > The drawing above is a reconstruction based on the layout XML and the button images, not a screenshot of the running app.
 
