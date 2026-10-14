@@ -36,7 +36,7 @@
 
 The app is a tree of screens (Android `Activity` classes). The home screen opens four main sections, and a side menu gives access to information about the app and its team.
 
-![Navigation map of the app](docs/images/navigation-map.svg)
+![Navigation map of the app](https://github.com/gabriellopes007/AplicativoAcessibilidade/blob/master/ceu_acessivel_mapa_navegacao.png)
 
 How navigation works in the code:
 
